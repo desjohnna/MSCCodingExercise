@@ -1,0 +1,15 @@
+{
+  "name": "MSC_Coding_Exercise",
+  "version": "1.0.0",
+  "description": "## Table of Contents 1. Evaluation guidelines 2. Task     1. User Stories     2. Technical Tasks and NFRs 3. Sample Data and expected result 4. Detailed instructions",
+  "main": "browser-test-shim.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
