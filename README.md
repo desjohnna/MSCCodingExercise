@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #CODING EXERCISE - Angular2/SPA
 
 ## Table of Contents
@@ -87,3 +88,6 @@ You can find a definition of what a Median is on [wikipedia][Median]
 [Median]: http://en.wikipedia.org/wiki/Median
 [uncle bob]: https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882
 [code coverage]: https://en.wikipedia.org/wiki/Code_coverage
+=======
+# MSCCodingExercise
+>>>>>>> 935eccc61028488b4cf75072a780d413a1d04fcc
